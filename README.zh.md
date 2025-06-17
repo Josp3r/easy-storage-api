@@ -77,4 +77,4 @@ pnpm run build:esm  # 仅构建 ESM
 
 ## License
 
-ISC 
+MIT
